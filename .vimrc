@@ -4,5 +4,7 @@ filetype plugin indent on
 syntax on
 set encoding=utf-8
 set clipboard=unnamedplus
-color desert
+color darkblue
 set nu
+syntax on
+hi Normal ctermbg=NONE guibg=NONE
